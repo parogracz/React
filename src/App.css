@@ -5,10 +5,12 @@ body{
   text-align: center;
 }
 .App{
-  margin-left: 50%;
 }
 .Screen{
-  
+  color:white;
+  background-color: #ccffcc;
+  margin-left: 50%;
+  margin-right: 50%;
 }
 .Numbers{
   width: 50%;
@@ -26,7 +28,7 @@ body{
 }
 .Button_Num{
   width: 20%;
-  height: 33%;
+  height: 60px;
 }
 .Clear{
   clear:both;
